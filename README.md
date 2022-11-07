@@ -7,4 +7,6 @@ This repository is organized as follows:
 
 **Figures folder** - contains all the figures obtained from the experimental evaluation on 8 data sets
 
+Please do read the readme file placed in the Figures folder for a clear understanding of the .xlsx files
+
 **Data folder** - contains the 8 data sets used in the experiments carried out
