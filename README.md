@@ -8,3 +8,6 @@ This repository is organized as follows:
 **Data folder** - contains the 8 data sets used in the experiments carried out.
 
 **Figures folder** - contains all the figures obtained from the experimental evaluation on 8 data sets.
+
+
+[1] Mayukh Bhattacharjee, Sankhadeep Chatterjee, Paula Branco, and Saranya Bhattacharjee "A-REACT: Adaptive Resampling and Active Classification for Thresholded Anomalies". Advances and Trends in Artificial Intelligence. 38th International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems, IEA/AIE 2025, Kitakyushu, Japan, July 1-4, 2025, Springer International Publishing, 2025. *(to appear)*
